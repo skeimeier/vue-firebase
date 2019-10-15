@@ -1,0 +1,18 @@
+{
+	"title": "Titel",
+	"signIn": "Anmelden mit Emailadresse",
+	"signUp": "Erstellen wir ein neues Konto !",
+	"menue.login": "Anmelden",
+	"menue.signup": "Konto anlegen",
+	"menue.logout": "Abmelden",
+	"auth.required":"Eingabe erforderlich!",
+	"auth.noAccout":"Kein Benutzerkonto? Hier kannst du ein ",
+	"auth.create": "Benutzerkonto anlegen",
+	"auth.min8chr": "Mindestens 8 Zeichen",
+	"auth.emailFormat": "Benötigt gültiges Emailformat",
+	"auth.goBack": "oder zurück zur ",
+	"btn.login": "Anmelden",
+	"btn.signUp": "Anlegen"
+
+}
+

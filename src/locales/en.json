@@ -1,0 +1,24 @@
+{
+	"title": "Title",
+	"signIn": "Sign In with email",
+	"signUp": "Let's create a new account !",
+	"menue": {
+				"login": "Login",
+				"signup": "Sign up",
+				"logout": "Logout"
+			},
+	"auth": {	
+				"required":"Required.",
+				"noAccout":"You don't have an account ? You can",
+				"create": "create one",
+				"min8chr": "Min 8 characters",
+				"emailFormat": "E-mail must be valid",
+				"goBack": "or go back to "
+			},
+	"btn": 	{
+				"login": "login",
+				"signUp": "Sign Up"
+			}
+
+
+}
