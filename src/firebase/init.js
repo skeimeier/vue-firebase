@@ -4,7 +4,7 @@ import firebase from 'firebase';
 
 
 const config = {
-    apiKey: "AIzaSyDKb3pyeDtliK0g34kPBQWddu8gwIK0sUw",
+    
     authDomain: "flimse-json-db.firebaseapp.com",
     databaseURL: "https://flimse-json-db.firebaseio.com",
     projectId: "flimse-json-db",
